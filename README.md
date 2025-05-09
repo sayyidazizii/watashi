@@ -8,12 +8,11 @@
 
 ## 🚀 Tentang Proyek
 
-**Watashi** adalah aplikasi berbasis Laravel yang mengintegrasikan layanan pengiriman melalui WhatsApp dengan menggunakan Laravel Wirechat dan Namuio. Proyek ini bertujuan untuk mempermudah proses pengiriman dan komunikasi melalui WhatsApp secara efisien.
+**Watashi** adalah aplikasi Chat berbasis Laravel yang mengintegrasikan Paket Laravel Wirechat dan Namuio. Proyek ini bertujuan untuk proses komunikasi antar user melalui Chat secara efisien.
 
 ## 🛠️ Fitur Utama
 
-- **Integrasi WhatsApp**: Menggunakan Laravel Wirechat untuk komunikasi melalui WhatsApp.
-- **Manajemen Pengiriman**: Fitur untuk mengatur dan melacak pengiriman barang.
+- **WebSocket WhatsApp**: Menggunakan Laravel Wirechat untuk komunikasi antar user.
 - **Antarmuka Pengguna Responsif**: Dibangun dengan Tailwind CSS untuk tampilan yang modern dan responsif.
 - **Konfigurasi Mudah**: Menggunakan file `.env` untuk pengaturan konfigurasi aplikasi.
 
