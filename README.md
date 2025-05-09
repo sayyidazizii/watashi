@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://github.com/sayyidazizii/watashi">
-    <img src="https://github.com/sayyidazizii/watashi/blob/main/public/image/Screenshot1.JPG?raw=true" width="600" alt="Watashi Screenshot">
-  </a>
-</p>
-
 <h1 align="center">Watashi</h1>
 
 <p align="center">
